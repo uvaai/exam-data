@@ -1,0 +1,4 @@
+24.59;3.61;Female;No;Sun;4;Dinner
+25.29;4.71;Male;No;Sun;4;Dinner
+34.83;5.17;Female;No;Thur;4;Lunch
+31.27;5;Male;No;Sat;3;Dinner
